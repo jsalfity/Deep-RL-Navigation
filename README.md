@@ -1,7 +1,7 @@
 # Deep-RL-Navigation
 
 ## The Environment
-This project featured an agent learning to navigate and collect bananas in a Unity simulated environment. The agent was trained in a reinforcement learning framework, where the agent had actions to move forward, backward, left or right, and received +1 reward for collecting yellow bananas and -1 reward for collecting blue bananas.
+This project featured an agent learning to navigate and collect bananas in a Unity simulated environment. The agent was trained in a reinforcement learning framework, where the agent had a state space size of 37, including position and velocity, an action space to move forward, backward, left or right, and received +1 reward for collecting yellow bananas and -1 reward for collecting blue bananas.
 
 The environment is considered solved when the agent has learned a policy that receives an average reward of 13 over 100 episodes.
 
@@ -31,10 +31,10 @@ To run the environment:
   * ipykernel
 
 * Download the Unity Environment from the appropriate link listed here:
-  * Linux: click [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
-  * Mac OSX: click [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-  * Windows (32-bit): [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
-  * Windows (64-bit): [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+  * Linux: click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+  * Mac OSX: click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+  * Windows (32-bit): [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+  * Windows (64-bit): [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
   
 * Then, place the file in the p1_navigation/ folder in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) , and unzip (or decompress) the file
 
