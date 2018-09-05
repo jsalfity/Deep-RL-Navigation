@@ -36,7 +36,7 @@ To run the environment:
   * Windows (32-bit): [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
   * Windows (64-bit): [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
   
-* Then, place the file in the p1_navigation/ folder in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) , and unzip (or decompress) the file
+* Place the file in the p1_navigation/ folder in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning) , and unzip (or decompress) the file
 
-* After you have followed the instructions above, open Navigation.ipynb (located in the p1_navigation/ folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
+* Open `Navigation.ipynb` (located in the p1_navigation/ folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
 
