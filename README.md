@@ -31,10 +31,10 @@ To run the environment:
   * ipykernel
 
 * Download the Unity Environment from the appropriate link listed here:
-  * Linux: click [here] https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
-  * Mac OSX: click [here] https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
-  * Windows (32-bit): [click here] https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
-  * Windows (64-bit): [click here] https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
+  * Linux: click [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+  * Mac OSX: click [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+  * Windows (32-bit): [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+  * Windows (64-bit): [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
   
 * Then, place the file in the p1_navigation/ folder in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) , and unzip (or decompress) the file
 
