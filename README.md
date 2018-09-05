@@ -12,23 +12,23 @@ See Report.pdf for more information on the environment, the learning algorithm, 
 ## Useage Instructions
 To run the environment:
 
-First follow the instructions to install the ML-Agents package from Unity - Technologies [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
+* Follow the instructions to install the ML-Agents package from Unity - Technologies [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
 
-Install the following Python packages:
-* tensorflow==1.7.1
-* Pillow>=4.2.1
-* matplotlib
-* numpy>=1.11.0
-* jupyter
-* pytest>=3.2.2
-* docopt
-* pyyaml
-* protobuf==3.5.2
-* grpcio==1.11.0
-* torch==0.4.0
-* pandas
-* scipy
-* ipykernel
+* Install the following Python packages:
+  * tensorflow==1.7.1
+  * Pillow>=4.2.1
+  * matplotlib
+  * numpy>=1.11.0
+  * jupyter
+  * pytest>=3.2.2
+  * docopt
+  * pyyaml
+  * protobuf==3.5.2
+  * grpcio==1.11.0
+  * torch==0.4.0
+  * pandas
+  * scipy
+  * ipykernel
 
 * Download the Unity Environment from the appropriate link listed here:
   * Linux: click [here] https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
