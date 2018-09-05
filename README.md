@@ -40,4 +40,3 @@ To run the environment:
 
 * After you have followed the instructions above, open Navigation.ipynb (located in the p1_navigation/ folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
 
-Watch the (silent) video below to see what kind of output to expect from the notebook, if everything is working properly!
